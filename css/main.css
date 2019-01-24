@@ -87,7 +87,7 @@ iframe {
 /* FORM */
 
 .main-form {
-    background-image: url(img/image.jpg);
+    background-image: url(../img/image.jpg);
     background-size: cover;
     
 }
